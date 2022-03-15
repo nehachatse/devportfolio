@@ -95,3 +95,7 @@
     });
 
 })(jQuery);
+function show() {
+    alert("Form submitted");
+    return;
+}
